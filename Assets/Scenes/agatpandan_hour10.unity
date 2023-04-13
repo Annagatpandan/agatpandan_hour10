@@ -1069,7 +1069,7 @@ GameObject:
   - component: {fileID: 2143270799}
   - component: {fileID: 2143270798}
   m_Layer: 0
-  m_Name: ChaosBall
+  m_Name: Chaos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
